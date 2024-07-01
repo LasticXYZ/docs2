@@ -55,11 +55,14 @@ Break down the what things here mean
 
 ## I have bought the core, what now?
 
-{% content-ref url="core-allocation.md" %}
-[core-allocation.md](core-allocation.md)
+{% content-ref url="assigning-a-core-to-a-parachain.md" %}
+[assigning-a-core-to-a-parachain.md](assigning-a-core-to-a-parachain.md)
+{% endcontent-ref %}
+
+{% content-ref url="transfer-core.md" %}
+[transfer-core.md](transfer-core.md)
 {% endcontent-ref %}
 
 {% content-ref url="modifying-the-core.md" %}
 [modifying-the-core.md](modifying-the-core.md)
 {% endcontent-ref %}
-

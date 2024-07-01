@@ -26,7 +26,7 @@ Did you know you can tweak your core's frequency with a technique called Interla
 
 Here's a simple breakdown: Think of the blockchain as a giant computer. Buying a core is like getting a processor in this vast network. What's a processor's superpower? Parallel computing! How does a processor handle tasks like moving the mouse and opening a new tab simultaneously? It runs both tasks so fast on the same processor that you don't even notice. Applying the same concept, how can we manage multiple parachains on the same core? Polkadot introduces Interlacing, a feature that adjusts your core's frequency within 80 blocks (one timeslice). The core division is tracked using a variable called Mask, an 80-bit bitmap. Ever wondered what a Mask of 0xffffffffffffffffffff indicates? It means your core hasn't been interlaced yet And guess what? We can even shape our core interlacing like a heart!&#x20;
 
-
+<figure><img src="../.gitbook/assets/Screenshot 2024-07-01 at 18.42.45.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-07-01 at 18.34.45.png" alt=""><figcaption></figcaption></figure>
 
