@@ -10,6 +10,6 @@
 * [Polkadot Networks](blockspace-on-polkadot/polkadot-networks.md)
 * [🧐 Polkadot 2.0](blockspace-on-polkadot/polkadot-2.0.md)
 * [⏺️ How to buy Coretime?](blockspace-on-polkadot/how-to-buy-coretime.md)
-* [🪓 Modifying the Core](blockspace-on-polkadot/modifying-the-core.md)
 * [🤝 Core Allocation](blockspace-on-polkadot/core-allocation.md)
+* [🪓 Modifying the Core](blockspace-on-polkadot/modifying-the-core.md)
 * [Links and resources to learn more](blockspace-on-polkadot/links-and-resources-to-learn-more.md)
