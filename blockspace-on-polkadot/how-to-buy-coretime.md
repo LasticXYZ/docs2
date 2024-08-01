@@ -1,12 +1,26 @@
 # ⏺️ How to buy Coretime?
 
+### What to buy?
+
+Coretime!&#x20;
+
+To be more specific it is possible to buy Coretime "in bulk", with an allocation for one month. Bulk purchases can be renewed monthly.
+
+However, it is also possible to buy Coretime for shorter periods of time such as one month, one hour, or even one block.&#x20;
+
+### When to buy?
+
+Coretime can be purchased up to 28 days in advance.
+
 ### Time periods
 
 3 differnet time periods:&#x20;
 
-* Renewal Period
-* Lead-in Period
-* Stable Period
+* **Renewal Period** is the length of the interlude, which is defined as a number of blocks in the broker pallet configuration, and it’s where bulk coretime can be renewed.
+* **Lead-in Period,** also known as Price Discovery. After the Renewal period a new start price will be set by the Coretime Chain and a dutch auction of lead-in length blocks will start, putting downward pressure on price to find the right equilibrium.&#x20;
+* **Stable Period.** After the base price is set during the Lead-in Period, it is then offered during the Stable Period.&#x20;
+
+
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-07-01 at 17.31.48.png" alt=""><figcaption></figcaption></figure>
 
